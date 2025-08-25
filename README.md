@@ -1,5 +1,6 @@
-Commercial Mortgage Case Study – Orlando Commerce Center
-📌 Overview
+# Commercial Mortgage Case Study – Orlando Commerce Center
+
+## Overview
 
 This project is a commercial real estate mortgage analysis for the Orlando Commerce Center, a retail shopping center located near the I-4 corridor in Orlando, FL.
 
@@ -15,7 +16,7 @@ RAROC (Risk-Adjusted Return on Capital) analysis.
 
 The purpose is to demonstrate financial modeling, real estate credit risk analysis, and bank underwriting skills.
 
-📊 Key Features
+## Key Features
 
 Rent Roll: Tenant-level data including lease terms, rental income, recoveries, and occupancy.
 
@@ -27,7 +28,7 @@ Risk Rating: Based on LTV, DSCR, and property characteristics.
 
 RAROC Calculation: To assess if the loan meets bank profitability thresholds.
 
-📑 File Structure
+## File Structure
 
 Commercial Mortgage Model (Orlando Commerce Center).xlsx → Final Excel model with all calculations.
 
@@ -43,7 +44,7 @@ Pricing – Loan pricing sheet with RAROC.
 
 Admin – Supporting assumptions.
 
-⚖️ Case Assumptions
+## Case Assumptions
 
 Property Type: Retail – Shopping Center
 
@@ -59,7 +60,7 @@ Risk Rating: Low Risk (2)
 
 RAROC: ~30% → above hurdle rate, attractive to lender
 
-🚀 Skills Demonstrated
+## Skills Demonstrated
 
 Commercial real estate underwriting
 
@@ -71,7 +72,7 @@ Understanding of NOI, RAROC, LTV, DSCR
 
 Real estate banking decision-making
 
-📂 How to Use
+## How to Use
 
 Open the Excel file.
 
@@ -83,6 +84,6 @@ Check the Pricing tab for loan terms and RAROC output.
 
 Adjust assumptions (rent, interest rate, expenses) to stress-test the deal.
 
-📌 Author
+## Author
 
 This case study was developed as part of a commercial real estate finance and risk management project, showcasing expertise in financial services, credit analysis, and real estate modeling.

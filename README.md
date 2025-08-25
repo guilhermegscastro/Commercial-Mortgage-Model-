@@ -58,31 +58,7 @@ LTV (Loan-to-Value): ~63.75%
 
 Risk Rating: Low Risk (2)
 
-RAROC: ~30% → above hurdle rate, attractive to lender
-
-## Skills Demonstrated
-
-Commercial real estate underwriting
-
-Loan structuring & credit risk analysis
-
-Excel financial modeling
-
-Understanding of NOI, RAROC, LTV, DSCR
-
-Real estate banking decision-making
-
-## How to Use
-
-Open the Excel file.
-
-Review the Rent Roll for tenant-level income.
-
-Navigate to Analysis for income statement & expenses.
-
-Check the Pricing tab for loan terms and RAROC output.
-
-Adjust assumptions (rent, interest rate, expenses) to stress-test the deal.
+RAROC: ~30% → above hurdle rate, attractive to lender.
 
 ## Author
 

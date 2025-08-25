@@ -34,31 +34,29 @@ The purpose is to demonstrate financial modeling, real estate credit risk analys
 
 Commercial Mortgage Model (Orlando Commerce Center).xlsx → Final Excel model with all calculations.
 
-CFI Cover Page – Project summary.
+- CFI Cover Page – Project summary.
 
-Rent Roll – Tenant data and recoveries.
+- Rent Roll – Tenant data and recoveries.
 
-Analysis – Property income statement and expense breakdown.
+- Analysis – Property income statement and expense breakdown.
 
-Risk Rating – Loan underwriting criteria.
+- Risk Rating – Loan underwriting criteria.
 
-Pricing – Loan pricing sheet with RAROC.
+- Pricing – Loan pricing sheet with RAROC.
 
-Admin – Supporting assumptions.
+- Admin – Supporting assumptions.
 
 ## Case Assumptions
 
-Property Type: Retail – Shopping Center
+- Property Type: Retail – Shopping Center
 
-Net Rentable Area (NRA): ~120,000 sq. ft.
+- Net Rentable Area (NRA): ~120,000 sq. ft.
 
-Loan Amount: $19,000,000
+- Interest Rate: ~4.0% (market-based)
 
-Interest Rate: ~4.0% (market-based)
+- Year Built: 2008
 
-LTV (Loan-to-Value): ~60.00%
-
-RAROC: ~30% → above hurdle rate, attractive to lender.
+- Economic Life of the Property: 50 Years
 
 ## Author
 

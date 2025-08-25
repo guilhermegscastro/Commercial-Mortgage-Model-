@@ -16,7 +16,7 @@ The study models property performance, loan pricing, and credit risk evaluation 
 
 The purpose is to demonstrate financial modeling, real estate credit risk analysis, and bank underwriting skills.
 
-![Macroeconomic Tab](image/macroeconomics.png "Financial Market Dashboard")
+![Commercial Mortgage Case Study](image/rent_roll.png "Commercial Mortgage Case Study")
 
 ## Key Features
 

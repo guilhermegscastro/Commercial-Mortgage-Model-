@@ -16,19 +16,25 @@ The study models property performance, loan pricing, and credit risk evaluation 
 
 The purpose is to demonstrate financial modeling, real estate credit risk analysis, and bank underwriting skills.
 
-![Commercial Mortgage Case Study](image/rent_roll.png "Commercial Mortgage Case Study")
+![Commercial Mortgage Case Study](image/description.png "Commercial Mortgage Case Study")
 
 ## Key Features
 
 - Rent Roll: Tenant-level data including lease terms, rental income, recoveries, and occupancy.
 
+![Commercial Mortgage Case Study](image/rent_roll.png "Commercial Mortgage Case Study")
+
 - Income Analysis: Net Operating Income (NOI), management fees, depreciation & amortization, repairs & maintenance.
+
+![Commercial Mortgage Case Study](image/calculations.png "Commercial Mortgage Case Study")
 
 - Loan Pricing: Interest rate, cost of funds, capital requirements, loss-given-default (LGD).
 
 - Risk Rating: Based on LTV, DSCR, and property characteristics.
 
 - RAROC Calculation: To assess if the loan meets bank profitability thresholds.
+
+![Commercial Mortgage Case Study](image/pricing.png "Commercial Mortgage Case Study")
 
 ## File Structure
 
@@ -45,18 +51,6 @@ Commercial Mortgage Model (Orlando Commerce Center).xlsx → Final Excel model w
 - Pricing – Loan pricing sheet with RAROC.
 
 - Admin – Supporting assumptions.
-
-## Case Assumptions
-
-- Property Type: Retail – Shopping Center
-
-- Net Rentable Area (NRA): ~120,000 sq. ft.
-
-- Interest Rate: ~4.0% (market-based)
-
-- Year Built: 2008
-
-- Economic Life of the Property: 50 Years
 
 ## Author
 

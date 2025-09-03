@@ -52,6 +52,13 @@ Commercial Mortgage Model (Orlando Commerce Center).xlsx → Final Excel model w
 
 - Admin – Supporting assumptions.
 
-## Author
+## 📎 References
 
-This case study was developed as part of a commercial real estate finance and risk management project, showcasing expertise in financial services, credit analysis, and real estate modeling.
+* Confessions of a Real Estate Entrepreneur - Book by James A. Randel
+* Commercial Real Estate Finance Specialist Course | CFI
+
+---
+
+✅ This case study was developed as part of a commercial real estate finance and risk management project, showcasing expertise in financial services, credit analysis, and real estate modeling.
+
+---

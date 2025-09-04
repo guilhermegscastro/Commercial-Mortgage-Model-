@@ -79,6 +79,8 @@ Commercial Mortgage Model (Orlando Commerce Center).xlsx → Final Excel model w
 
 * Confessions of a Real Estate Entrepreneur - Book by James A. Randel
 * Commercial Real Estate Finance Specialist Course | CFI
+* https://agorareal.com/blog/commercial-real-estate-interest-rates/
+* https://southstatecorrespondent.com/banker-to-banker/pricing-models-4-changes-banks-need-to-make-now/
 
 ---
 

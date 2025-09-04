@@ -1,6 +1,6 @@
 # Commercial Mortgage Case Study – Orlando Commerce Center
 
-## Overview
+## 📌 Project Overview
 
 This project is a commercial real estate mortgage analysis for the Orlando Commerce Center, a fictional retail shopping center located near the I-4 corridor in Orlando, FL.
 
@@ -18,7 +18,7 @@ The purpose is to demonstrate financial modeling, real estate credit risk analys
 
 ![Commercial Mortgage Case Study](image/description.png "Commercial Mortgage Case Study")
 
-## Key Features
+## 📊 Key Features
 
 - Rent Roll: Tenant-level data including lease terms, rental income, recoveries, and occupancy.
 
@@ -36,7 +36,7 @@ The purpose is to demonstrate financial modeling, real estate credit risk analys
 
 ![Commercial Mortgage Case Study](image/pricing.png "Commercial Mortgage Case Study")
 
-## File Structure
+## 🛠️ File Structure
 
 Commercial Mortgage Model (Orlando Commerce Center).xlsx → Final Excel model with all calculations.
 
